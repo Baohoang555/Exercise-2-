@@ -6,9 +6,7 @@
     sum said strings. the two")
     ("The quick brown fox jumps over the lazy dog.") -> ("The brown dog. fox jumps lazy over
     quick the") '''
-   
-   
-    from BTVN2 import result
+
    
      sample_string = input("Enter your string,separated by comma: ").split()
      def get_first_char(string) :
